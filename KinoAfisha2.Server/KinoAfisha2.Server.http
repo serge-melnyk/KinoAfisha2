@@ -1,0 +1,6 @@
+@KinoAfisha2.Server_HostAddress = http://localhost:5107
+
+GET {{KinoAfisha2.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
